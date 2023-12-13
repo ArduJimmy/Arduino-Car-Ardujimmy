@@ -32,3 +32,5 @@ https://github.com/ArduJimmy/NRF24L01_Test_Checker</p>
 
 <p>Please donate to: <a href="https://www.paypal.me/idhermannz" title="Donate ArduJimmy">Donate for ArduJimmy Youtube Channel</a></p>
 #nrf24l01 #car #arduinonano #arduinoproject #dcmotor #l298n #arduinocar
+
+<p><a href="https://www.youtube.com/watch?v=2J8Cqx4xcwI">WATCH THE FINAL PART</a></p>
