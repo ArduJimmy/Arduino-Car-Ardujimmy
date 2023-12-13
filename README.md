@@ -24,13 +24,11 @@ All components:
 
 <img src="https://github.com/ArduJimmy/Arduino-Car-Ardujimmy/blob/main/transmitter.png" alt="Transmitter NRF24L01 Arduino Car" title="Transmitter NRF24L01 Arduino Car"/>
 
-All above is minimum, you can develop it using toggle switch, potentiometer, led, servo, camera, etc which I will include in my Github rep for you for free. So, don't forget to Subscribe bro: <a href="https://www.youtube.com/@ardujimmy" title="ArduJimmy">Subscribe ArduJimmy Youtube Channel</a>
-
-Schematic Diagram:
+<p>All above is minimum, you can develop it using toggle switch, potentiometer, led, servo, camera, etc which I will include in my Github rep for you for free. So, don't forget to Subscribe bro:</p> <p><a href="https://www.youtube.com/@ardujimmy" title="ArduJimmy">Subscribe ArduJimmy Youtube Channel</a></p>
 
 
-Working Library (NRF24L01):
-https://github.com/ArduJimmy/NRF24L01_Test_Checker
+<p>Working Library (NRF24L01):<br />
+https://github.com/ArduJimmy/NRF24L01_Test_Checker</p>
 
-Please donate to: <a href="https://www.paypal.me/idhermannz" title="Donate ArduJimmy">Donate for ArduJimmy Youtube Channel</a>
+<p>Please donate to: <a href="https://www.paypal.me/idhermannz" title="Donate ArduJimmy">Donate for ArduJimmy Youtube Channel</a></p>
 #nrf24l01 #car #arduinonano #arduinoproject #dcmotor #l298n #arduinocar
