@@ -28,4 +28,5 @@ Schematic Diagram:
 Working Library (NRF24L01):
 https://github.com/ArduJimmy/NRF24L01_Test_Checker
 
+Please donate to: <a href="https://www.paypal.me/idhermannz" title="Donate ArduJimmy">Donate for ArduJimmy Youtube Channel</a>
 #nrf24l01 #car #arduinonano #arduinoproject #dcmotor #l298n #arduinocar
