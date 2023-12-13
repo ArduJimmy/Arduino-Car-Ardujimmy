@@ -20,6 +20,8 @@ All components:
 - Cables & Jumpers
 - Analog Joysticks
 
+<img src="https://github.com/ArduJimmy/Arduino-Car-Ardujimmy/blob/main/transmitter.png" alt="Transmitter NRF24L01 Arduino Car" title="Transmitter NRF24L01 Arduino Car"/>
+
 All above is minimum, you can develop it using toggle switch, potentiometer, led, servo, camera, etc which I will include in my Github rep for you for free. So, don't forget to Subscribe bro: <a href="https://www.youtube.com/@ardujimmy" title="ArduJimmy">Subscribe ArduJimmy Youtube Channel</a>
 
 Schematic Diagram:
