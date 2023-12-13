@@ -13,6 +13,8 @@ All components:
 - Cables & Jumpers
 - DIY Brackets
 
+  <img src="https://github.com/ArduJimmy/Arduino-Car-Ardujimmy/blob/main/Receiver.png alt="Receiver NRF24L01 Arduino Car" title="Receiver NRF24L01 Arduino Car"/>
+
 2. Transmitter:
 - Arduino minicore 328pB 5v (I use this since I have no other boards. You can use 168p or 328p promini, nano, uno, etc.)
 - Nrf24l01 with 3.3v breakout
